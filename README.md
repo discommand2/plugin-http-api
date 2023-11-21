@@ -1,2 +1,2 @@
-# plugin-template
-A starter template for developing new plugins, ensuring consistency and ease of development.
+# plugin-http-api
+Provides an HTTP API interface, allowing external systems to interact with the brain.
